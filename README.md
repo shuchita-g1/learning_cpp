@@ -1,3 +1,3 @@
 # learning_cpp
 
-This repository teaches basics of c++ and shows some brief examples of c++ code.
+This repository makes you familiar with basics of c++. It includes some brief examples of c++ programming.
